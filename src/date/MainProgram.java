@@ -31,6 +31,7 @@ public class MainProgram {
 		System.out.println(minutes);
 		System.out.println(hour);
 		
+		System.out.println("Bom dia");
 		
 		
 		
